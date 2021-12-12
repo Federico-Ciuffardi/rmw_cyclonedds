@@ -9,7 +9,7 @@
 
   <buildtool_depend>ament_cmake_ros</buildtool_depend>
 
-  <depend>cyclonedds</depend>
+  <!-- <depend>cyclonedds</depend> -->
   <depend>rcutils</depend>
   <depend>rcpputils</depend>
   <depend>rmw</depend>
